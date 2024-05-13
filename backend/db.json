@@ -1,82 +1,46 @@
 {
   "pensamentos": [
     {
-      "id": "1",
+      "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
       "modelo": "modelo1"
     },
     {
-      "id": "2",
+      "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
       "modelo": "modelo2"
     },
     {
-      "id": "3",
+      "id": 3,
       "conteudo": "Angular é o melhor'",
       "autoria": "Dev Alura",
       "modelo": "modelo3"
     },
     {
-      "id": "4",
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "5",
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "6",
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
-      "id": "0be1",
-      "conteudo": "teste",
-      "autoria": "teste",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "bf64",
-      "conteudo": "teste",
-      "autoria": "teste",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "7cb7",
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "Que isso bb",
-      "modelo": "modelo2"
+      "modelo": "modelo3",
+      "id": 4
     },
     {
-      "id": "c0e1",
       "conteudo": "A transformação digital reconfigurou a paisagem econômica impulsionando a automação e a inovação em todos os setores A inteligência artificial a análise de dados e a Internet das Coisas são os pilares dessa mudança promovendo eficiência personalização e novas oportunidades de negócios Essa revolução tecnológica está moldando o futuro trazendo desafios e possibilidades sem precedentes",
       "autoria": "Que isso bb",
-      "modelo": "modelo3"
+      "modelo": "modelo1",
+      "id": 5
     },
     {
-      "id": "7b09",
-      "conteudo": "A transformação digital reconfigurou a paisagem econômica impulsionando a automação e a inovação em todos os setores A inteligência artificial a análise de dados e a Internet das Coisas são os pilares dessa mudança promovendo eficiência personalização e novas oportunidades de negócios Essa revolução tecnológica está moldando o futuro trazendo desafios e possibilidades sem precedentes",
-      "autoria": "Que isso bb",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "cc82",
       "conteudo": "teste",
       "autoria": "Que isso bb",
-      "modelo": "modelo1"
+      "modelo": "modelo2",
+      "id": 6
     },
     {
-      "id": "80b3",
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "teste",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
