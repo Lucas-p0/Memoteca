@@ -2,8 +2,8 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Nay",
+      "conteudo": "Salve",
+      "autoria": "Valeu",
       "modelo": "modelo1"
     },
     {
@@ -41,6 +41,12 @@
       "autoria": "teste",
       "modelo": "modelo2",
       "id": 7
+    },
+    {
+      "conteudo": "Opaaaaaaaaaaa!",
+      "autoria": "Que isso bb",
+      "modelo": "modelo3",
+      "id": 8
     }
   ]
 }
