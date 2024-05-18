@@ -4,55 +4,78 @@
       "id": 1,
       "conteudo": "Salve",
       "autoria": "Valeu",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor'",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "Que isso bb",
       "modelo": "modelo3",
-      "id": 4
+      "id": 4,
+      "favorito": true
     },
     {
       "conteudo": "A transformação digital reconfigurou a paisagem econômica impulsionando a automação e a inovação em todos os setores A inteligência artificial a análise de dados e a Internet das Coisas são os pilares dessa mudança promovendo eficiência personalização e novas oportunidades de negócios Essa revolução tecnológica está moldando o futuro trazendo desafios e possibilidades sem precedentes",
       "autoria": "Que isso bb",
       "modelo": "modelo1",
-      "id": 5
+      "id": 5,
+      "favorito": true
     },
     {
       "conteudo": "teste",
       "autoria": "Que isso bb",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": true
     },
     {
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "teste",
       "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "favorito": false
     },
     {
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "Que isso bb",
       "modelo": "modelo3",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "conteudo": "Opaaaaaaaaaaa!",
       "autoria": "Valeu",
       "modelo": "modelo1",
-      "id": 9
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "Opaaaaaaaaaaa!",
+      "autoria": "Valeu",
+      "modelo": "modelo1",
+      "id": 10,
+      "favorito": false
+    },
+    {
+      "conteudo": "Opaaaaaaaaaaa!",
+      "autoria": "Valeu",
+      "modelo": "modelo3",
+      "id": 11,
+      "favorito": false
     }
   ]
 }
